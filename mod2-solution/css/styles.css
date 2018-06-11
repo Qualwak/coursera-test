@@ -14,10 +14,9 @@ h1 {
 }
 h3 {
   	position: absolute;
-  	right:11px;
-  	top: -7.7px;
-  	border-left: 1px solid black;
-  	border-bottom: 1px solid black;
+  	right:10px;
+  	top: -8.75px;
+  	border: 1px solid black;
   	width: 160px;
   	text-align: center;
  }
